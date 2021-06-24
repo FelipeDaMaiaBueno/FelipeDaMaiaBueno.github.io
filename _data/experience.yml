@@ -1,0 +1,20 @@
+# Jobs
+# Trabalho atual fica em primeiro
+# KIONUX
+- company: Kionux Soluções em Internet
+  position: Desenvolvedor BackEnd
+  duration:  Abr, 2019 &mdash; Atualmente
+  summary: Desenvolvimento de BackEnd utilizando Slim Framework.
+
+
+# ITAIPU
+- company: Itaipu Binacional
+  position: Estagiário
+  duration: Jan, 2017  &mdash; Dez, 2018
+  summary: Estágio voltado para a área de suporte para os funcionário da ITAIPU.
+
+# CEASB
+- company: Centro de Estudos Avançados em Segurança de Baragens, PTI
+  position: Bolsista na Modalidade ITI
+  duration: Jan, 2014 &mdash; Dez, 2015
+  summary: Participei do desenvolvimento do projeto PTI Virtual em suas fases iniciais.
